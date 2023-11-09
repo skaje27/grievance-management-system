@@ -1,0 +1,32 @@
+/* Reset default margin and padding */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set the background color to white */
+  body {
+    background-color: #ffffff;
+  }
+  
+  /* Center content in the middle of the page */
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Style for a centered heading */
+  h1 {
+    font-size: 36px;
+    color: #333; /* Text color */
+  }
+  
+  /* Style for paragraphs */
+  p {
+    font-size: 18px;
+    color: #666; /* Text color */
+    margin-top: 20px;
+  }
+  
