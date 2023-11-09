@@ -1,0 +1,6 @@
+"We're experiencing frequent power outages in our neighborhood."
+"The streetlights are not functioning, posing a safety risk."
+"The power bills have been unusually high, and we suspect errors in billing." 
+"There's an electrical issue in the local park, and it's affecting public events."
+"Several areas in the city are facing voltage fluctuations that damage appliances."
+
